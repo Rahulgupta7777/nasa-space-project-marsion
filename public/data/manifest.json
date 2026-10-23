@@ -1,0 +1,53 @@
+{
+  "generatedAt": "2026-11-15T17:23:28.708Z",
+  "entries": [
+    {
+      "file": "gale-dem.bin",
+      "title": "Gale Crater elevation, HiRISE stereo DEM resampled to ~20 m",
+      "mission": "Mars Reconnaissance Orbiter (HiRISE)",
+      "provider": "NASA Solar System Treks (JPL)",
+      "url": "https://trek.nasa.gov/mars/trekarcgis/rest/services/Gale_DEM_SMG_1m/ImageServer/exportImage?bbox=137.32%2C-4.75%2C137.48%2C-4.56&bboxSR=104905&imageSR=104905&size=473%2C563&format=bip&pixelType=F32&interpolation=RSP_BilinearInterpolation&f=image",
+      "fetchedAt": "2026-11-15T17:23:28.708Z",
+      "records": 266299,
+      "note": "float32 little-endian, 473 x 563, row 0 = north; metres above the areoid"
+    },
+    {
+      "file": "curiosity-sites.json",
+      "title": "Named Curiosity science sites",
+      "mission": "Mars Science Laboratory (Curiosity)",
+      "provider": "NASA Solar System Treks (JPL)",
+      "url": "https://trek.nasa.gov/mars/trekarcgis/rest/services/curiosity_waypoints/MapServer/0/query?where=1%3D1&outFields=*&returnGeometry=true&outSR=104905&f=json",
+      "fetchedAt": "2026-11-15T17:23:28.708Z",
+      "records": 14
+    },
+    {
+      "file": "curiosity-traverse.json",
+      "title": "Curiosity traverse (decimated) and latest localised position",
+      "mission": "Mars Science Laboratory (Curiosity)",
+      "provider": "NASA Mars Exploration Program (JPL MMGIS)",
+      "url": "https://mars.nasa.gov/mmgis-maps/MSL/Layers/json/MSL_traverse.json",
+      "fetchedAt": "2026-11-15T17:23:28.708Z",
+      "records": 2703,
+      "note": "Latest waypoint: sol 5073. Waypoints from https://mars.nasa.gov/mmgis-maps/MSL/Layers/json/MSL_waypoints.json"
+    },
+    {
+      "file": "rems.json",
+      "title": "Curiosity REMS daily weather reports",
+      "mission": "Mars Science Laboratory (Curiosity REMS)",
+      "provider": "NASA Mars Exploration Program; data from Centro de Astrobiologia (CSIC-INTA)",
+      "url": "https://mars.nasa.gov/rss/api/?feed=weather&category=msl&feedtype=json",
+      "fetchedAt": "2026-11-15T17:23:28.708Z",
+      "records": 4745,
+      "note": "Sols 1 to 4995"
+    },
+    {
+      "file": "exploration-zone-rois.json",
+      "title": "Human Exploration Zone regions of interest proposed for Gale Crater (2015 workshop)",
+      "mission": "NASA Human Landing Sites Study",
+      "provider": "NASA Solar System Treks (JPL)",
+      "url": "https://trek.nasa.gov/mars/trekarcgis/rest/services/EZMars/MapServer/3/query?where=1%3D1&outFields=*&returnGeometry=true&outSR=104905&f=json&geometry=137.32%2C-4.75%2C137.48%2C-4.56&geometryType=esriGeometryEnvelope&inSR=104905&spatialRel=esriSpatialRelIntersects",
+      "fetchedAt": "2026-11-15T17:23:28.708Z",
+      "records": 1
+    }
+  ]
+}

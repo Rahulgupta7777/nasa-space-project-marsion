@@ -1,0 +1,100 @@
+[
+ {
+  "id": "msl-0",
+  "name": "Bradbury Landing",
+  "lon": 137.441633,
+  "lat": -4.589467,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/bradbury.html"
+ },
+ {
+  "id": "msl-1",
+  "name": "The Rocknest",
+  "lon": 137.447932,
+  "lat": -4.590056,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/rocknest.html"
+ },
+ {
+  "id": "msl-2",
+  "name": "Glenelg",
+  "lon": 137.448336,
+  "lat": -4.590009,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/glenelg.html"
+ },
+ {
+  "id": "msl-3",
+  "name": "Darwin Outcrop",
+  "lon": 137.426279,
+  "lat": -4.607074,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/darwin_outcrop.html"
+ },
+ {
+  "id": "msl-4",
+  "name": "The Kimberly",
+  "lon": 137.402169,
+  "lat": -4.636337,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/kimberly.html"
+ },
+ {
+  "id": "msl-5",
+  "name": "Pahrump Hills",
+  "lon": 137.377244,
+  "lat": -4.662412,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/pahrump_hills.html"
+ },
+ {
+  "id": "msl-6",
+  "name": "Marias Pass",
+  "lon": 137.371403,
+  "lat": -4.667939,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/marias_pass.html"
+ },
+ {
+  "id": "msl-7",
+  "name": "Bagnold Dunes",
+  "lon": 137.365692,
+  "lat": -4.679075,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/bagnold_dunes.html"
+ },
+ {
+  "id": "msl-8",
+  "name": "Bagnold Dunes West End",
+  "lon": 137.357783,
+  "lat": -4.678562,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/bagnold_dunes_west_end.html"
+ },
+ {
+  "id": "msl-9",
+  "name": "Murray Buttes",
+  "lon": 137.35334,
+  "lat": -4.6954,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/murray_buttes.html"
+ },
+ {
+  "id": "msl-10",
+  "name": "Bagnold Dunes South",
+  "lon": 137.35722,
+  "lat": -4.7112,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/bagnold_dunes_south.html"
+ },
+ {
+  "id": "msl-11",
+  "name": "Vera Rubin Ridge",
+  "lon": 137.36832,
+  "lat": -4.72053,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/vera_rubin_ridge.html"
+ },
+ {
+  "id": "msl-12",
+  "name": "Top of Vera Rubin Ridge",
+  "lon": 137.37273,
+  "lat": -4.72369,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/top_of_vera_rubin_ridge.html"
+ },
+ {
+  "id": "msl-13",
+  "name": "Hematite Hotspot",
+  "lon": 137.38036,
+  "lat": -4.72476,
+  "info": "https://trek.nasa.gov/mars/jpl/assets/features/curiosity/hematite_hotspot.html"
+ }
+]
